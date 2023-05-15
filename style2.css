@@ -1,0 +1,211 @@
+#head{
+    height: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #EEEEEE;
+    text-align: center;
+    padding: 18px 1200px 0px 0px;
+    margin-bottom: 10px;
+}
+
+#tasks{
+    color: #424242;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#list{
+    color: #00A5EC;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.main1{
+    background-color: #F7F7F7;
+    padding-bottom: 610px;
+}
+
+.addp{
+    display: flex;
+    align-items: center;
+    padding: 20px 0px 0px 550px;
+    /* margin: 10px; */
+    
+}
+
+
+.fa-solid{
+    font-size: xx-large;
+    padding-right: 10px;
+}
+
+
+.back{
+    color: #636363;
+    font-size: large;
+    padding-right: 200px;
+}
+
+.circlep{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #00A5EC;
+    
+}
+
+.plusp{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 4px 10px 0px 12px;
+}
+
+.textpp{
+    font-weight: 900px;
+    font-size: large;
+    padding-left: 13px;
+    color: #646464;
+    font-weight: 500;
+}
+
+
+
+
+
+.boxab{
+    height: 280px;
+    width: 420px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #efe6e6;
+    cursor: pointer;
+    position: absolute;
+    top: 180px;
+    left: 550px;
+    box-shadow: 0px 0px 10px #cfcbcb;
+   
+}
+
+.headingab{
+    /* padding-right: 150px; */
+    color: #00A5EC;
+    text-align: center;
+}
+
+.linea{
+    text-decoration: line-through;
+    color: #b4acac;
+    /* font-size: large; */
+    
+}
+
+
+input[type=checkbox]{
+    height: 23px;
+    width: 23px;
+    margin: 0 30px 0 5px;
+}
+
+
+.new{
+    border: 1px solid #faf6f6;
+}
+
+
+
+p {
+    padding: 0 20px;
+	font-size: 18px;
+}
+
+.blur{
+    filter: blur(2px);
+}
+
+.ba{
+    background-color: #FFFFFF;
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid #efe6e6;
+}
+
+.t1{
+    font-family: 'Karla', sans-serif;
+    font-size: larger;
+}
+
+.bp{
+    display: flex;
+    
+    
+}
+
+.t2{
+    font-size: x-small;
+    padding: 10px 0px 0px 250px;
+}
+
+.b1{
+    border: 1px solid #efe6e6;
+    background-color: #F7F7F7;
+    height: 50px;
+    width: 410px;
+    margin: 25px 20px 20px 20px;
+    border-radius: 5px;
+    
+    
+    
+}
+
+.b2{
+    height: 40px;
+    width: 160px;
+    background-color: #00A5EC;
+    text-align: center;
+    margin: 0px 0px 0px 270px;
+    border-radius: 5px;
+}
+
+.t3{
+    color: white;
+    padding: 9px 15px 0px 0px;
+    
+}
+
+.fa-solid{
+    font-size: large;
+    color: #b4acac;
+}
+
+.t4{
+    color: #b4acac;
+   
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+div  label{
+    cursor: pointer;
+}
+
+div  input{
+    cursor: pointer;
+}
+
+.fa-regular{
+    font-size: small;
+}
+
+.fa-sharp{
+    color: #424242;
+    font-size: x-large;
+}
